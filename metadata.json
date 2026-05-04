@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Vocalis AI - Vietnamese Natural TTS",
+  "description": "Chuyển đổi văn bản thành giọng nói tiếng Việt tự nhiên với khả năng ngắt nghỉ như người thật, sử dụng công nghệ Gemini AI tiên tiến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
